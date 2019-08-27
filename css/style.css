@@ -1,0 +1,31 @@
+/* Body parts */
+body {
+  background-color:#E6EFF4;
+  font-family:verdana;
+  margin: 0px;
+}
+.main_div{
+  margin: 20px;
+}
+
+/* standard block icon */
+.block_img {
+  width: 150px;
+  height: 150px;
+}
+
+h1 {
+  color:white;
+  font-size:300%;
+  padding:12px;
+}
+
+.card {
+  background-color: powderblue;
+  padding: 20px;
+}
+.card_title {
+  background-color: #BA4A00;
+  padding: 15px;
+  color: white;
+}
